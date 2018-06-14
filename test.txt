@@ -1,3 +1,4 @@
 I got a little knowledge of git system.
 I want to finish it as soon as posible.
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
